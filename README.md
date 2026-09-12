@@ -3,4 +3,5 @@ This projects learned me about the connection of HTML and CSS....also learned ab
 
 ITE 18 PROJECT (odin-recipe) - Jeremy Ruiz
 
-Be mind you must extract the files and folder inside "odin-recipe" folder, else it wont work
+Don't run the file if the "recipes" folder and the index.html file is inside the "odin-recipes" folder...it wont run because of misdirectory
+Extract all files within "odin-recipes" folder then run the index.html file
